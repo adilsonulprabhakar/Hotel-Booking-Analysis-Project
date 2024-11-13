@@ -4,6 +4,8 @@
 ## Project Overview
 This project focuses on analyzing hotel booking data to gain valuable insights into guest behavior and operational aspects at Marriott Hotel. The goal is to identify trends in booking patterns, customer preferences, and factors affecting key performance indicators such as cancellation rates, revenue, and average daily rates (ADR).
 
+## Dataset Used: https://www.kaggle.com/code/aminizahra/hotel-booking-analysis/input
+
 ### Key Objectives:
 1. **Analyze Booking Patterns**: Understand guest behavior by analyzing booking trends over time, lead time, length of stay, and seasonal patterns.
 2. **Cancellation Analysis**: Explore factors influencing cancellation rates, including waiting list status, booking channels, and previous booking history.
